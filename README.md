@@ -1,7 +1,7 @@
 # calcular_PI_threads
 
 como executar:
-    vá para o repósitorio para onde o arquivo esta localizado e digite no terminal
+    -vá para o repósitorio para onde o arquivo esta localizado e digite no terminal
     ```
     go run main.go
     ```
