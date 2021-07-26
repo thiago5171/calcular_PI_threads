@@ -5,6 +5,10 @@ como executar:
     ```
     go run main.go
     ```
+    <br /> 
+    Abaixo estão os resultados com os paramentros pedidos pelo professor.
+    <br />
+ 
 
 - 32 Threads
 ```
@@ -64,4 +68,12 @@ Tempo Médio -> 101.86898643999999
 Desvio padrão ->  2.1955561200238525
 Coeficiente de variação ->  2.155274334958675
 Valores obtidos para Pi ->  [3.1415926525880504 3.1415926525880504 3.1415926525880504 3.1415926525880504 3.1415926525880504]
+
 ```
+
+
+<br /> <br />
+É interessante observar que estes resultados foram gerados por um computador com 8 nucles de processamento,
+<br />
+Desse modo, quando  testamos com mais de 8 threads é perceptivel que o tempo não se altera de forma singficativa
+
