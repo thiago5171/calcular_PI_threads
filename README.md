@@ -1,6 +1,10 @@
 # calcular_PI_threads
 
-Thiago Gazaroli Cardoso
+como executar:
+    vá para o repósitorio para onde o arquivo esta localizado e digite no terminal
+    ```
+    go run main.go
+    ```
 
 - 32 Threads
 ```
