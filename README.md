@@ -1,1 +1,64 @@
 # calcular_PI_threads
+
+Thiago Gazaroli Cardoso
+
+- 32 Threads
+```
+Numero de termos 1000000000
+Numero de threads: 32
+Valores obtidos para Pi ->  [3.141592652590108 3.141592652590108 3.141592652590108 3.141592652590108 3.141592652590108]
+Tempo Médio -> 28.613925040000005
+Desvio padrão ->  0.49692319666389334
+Coeficiente de variação ->  1.7366481388667718
+```
+
+- 16 Threads
+```
+Numero de termos 1000000000
+Numero de threads: 16
+Valores obtidos para Pi ->  [3.141592652590205 3.141592652590205 3.141592652590205 3.141592652590205 3.141592652590205]
+Tempo Médio -> 29.10392024
+Desvio padrão ->  0.8128574811588379
+Coeficiente de variação ->  2.792948422259825
+
+```
+
+- 8 Threads
+```
+Numero de termos 1000000000
+Numero de threads: 8
+Valores obtidos para Pi ->  [3.141592652589324 3.141592652589324 3.141592652589324 3.141592652589324 3.141592652589324]
+Tempo Médio -> 28.871871340000002
+Desvio padrão ->  0.6651578652872431
+Coeficiente de variação ->  2.3038266465454647
+```
+
+- 4 Threads
+```
+Numero de termos 1000000000
+Numero de threads: 4
+Valores obtidos para Pi ->  [3.1415926525892104 3.1415926525892104 3.1415926525892104 3.1415926525892104 3.1415926525892104]
+Tempo Médio -> 37.53117068
+Desvio padrão ->  0.3911083209215754
+Coeficiente de variação ->  1.0420893189190956
+```
+
+- 2 Threads
+```
+Numero de termos 1000000000
+Numero de threads: 2
+Valores obtidos para Pi ->  [3.141592652589258 3.141592652589258 3.141592652589258 3.141592652589258 3.141592652589258]
+Tempo Médio -> 59.26495366
+Desvio padrão ->  1.2106235817566073
+Coeficiente de variação ->  2.0427310020385616
+```
+
+- 1 Threads
+```
+Numero de termos 1000000000
+Numero de threads: 1
+Valores obtidos para Pi ->  [3.1415926525880504 3.1415926525880504 3.1415926525880504 3.1415926525880504 3.1415926525880504]
+Tempo Médio -> 101.86898643999999
+Desvio padrão ->  2.1955561200238525
+Coeficiente de variação ->  2.155274334958675
+```
