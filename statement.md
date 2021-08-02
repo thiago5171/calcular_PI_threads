@@ -1,7 +1,7 @@
 
-Esta atividade avaliativa tem como principal objetivo compreender melhor o conceito de thread e como elas podem ser usadas para utilizar melhor os recursos de processamento disponíveis nos computadores e sistemas operacionais modernos. Ela é inspirada nesta atividade, do curso de sistemas operacionais do prof. Carlos Maziero (UFPR).
+Esta atividade avaliativa tem como principal objetivo compreender melhor o conceito de thread e como elas podem ser usadas para utilizar melhor os recursos de processamento disponíveis nos computadores e sistemas operacionais modernos. Ela é inspirada nesta atividade(http://wiki.inf.ufpr.br/maziero/doku.php?id=so:calculo_de_pi_com_threads), do curso de sistemas operacionais do prof. Carlos Maziero (UFPR).
 
-Construa um programa utilizando a sua linguagem de programação de preferência para calcular o valor de π utilizando N threads processando de forma concorrente. O valor de π deve ser aproximado pela série de Leibniz-Grégory:
+Construa um programa utilizando a sua linguagem de programação de preferência para calcular o valor de π utilizando N threads processando de forma concorrente. O valor de π deve ser aproximado pela série de Leibniz-Grégory(https://pt.wikipedia.org/wiki/F%C3%B3rmula_de_Leibniz_para_%CF%80):
 
 
 Observações:
